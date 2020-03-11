@@ -1,0 +1,24 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millernj/employee-summary.git"
+  },
+  "author": "Noah Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/millernj/employee-summary/issues"
+  },
+  "homepage": "https://github.com/millernj/employee-summary#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0",
+    "jest": "^25.1.0"
+  }
+}
